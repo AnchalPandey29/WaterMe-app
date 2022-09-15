@@ -1,43 +1,51 @@
-Water Me - Starter Code
+Water Me - Gardening Reminder
 ==================================
 
-Starter code for the fourth independent project for Android Basics in Kotlin. This project pairs
-with Unit 6 of Android Basics in Kotlin
+<h3>WaterMe App reminds you when to tend to the plants in your garden.</h3>
+<p>
+<h4>Never let another plant turn brown again. WaterMe reminds you when to tend to the plants in your garden:</h4>
 
-Introduction
-------------
+1) Add your plants into the app.
 
-This is the starter code for the Water Me app project. This project is an opportunity for you to
-demonstrate the concepts you learned in Unit 6 of Android Basics in Kotlin.
+2) Add reminders for watering, fertilizing, etc.
 
-Pre-requisites
---------------
+3) Get 1 notification every day reminding you which plants need care.
 
-- Complete Unit 1 of Android Basics in Kotlin
-- Complete Project 1: Lemonade App
-- Complete Unit 2 of Android Basics in Kotlin
-- Complete Project 2: Dogglers
-- Complete Unit 3 of Android Basics in Kotlin
-- Complete Project 3: Lunch Tray
-- Complete Unit 4 of Android Basics in Kotlin
-- Complete Project 4: Amphibians
-- Complete Unit 5 of Android Basics in Kotlin
-- Complete Project 5: Forage
-- Complete Unit 6 of Android Basics in Kotlin
+4) Take care of the plant in real life.
 
-Getting Started
----------------
-
-1. Download the starter code
-2. Open the project in Android Studio
-3. Complete the project in accordance with the app requirements
+5) Drag and drop the reminder to mark it as complete.
 
 
-Tasks
----------------
+<h4>Thats it! Every day you'll get one, and only one, notification that reminds you to take care of your plants.</h4>
+<hr>
 
-Tips
-----
+<h2>Features</h3>
 
-- Use the provided tests to ensure your app is running as expected
-- DO NOT ALTER THE PROVIDED TESTS
+- Supports multiple kinds of reminders per plant
+
+- Water, Fertilize, Trim, and more
+
+- Easy to see which plants need to be taken care of and when.
+
+- Syncs data across all of your Android devices via Cloud.
+
+- Supports working quickly with Drag and Drop interface.
+
+- Customize the time notifications are sent every day.
+
+- Supports Split Screen and Slide Over Android Apps Multitasking.
+
+- Supports Dynamic Type.
+<hr>
+
+</p>
+<h2>Screenshots</h2>
+<img src="https://github.com/AnchalPandey29/WaterMe-app/blob/main/1.png" width="400px">
+
+<img src="https://github.com/AnchalPandey29/WaterMe-app/blob/main/2.png" border="black">
+<hr>
+
+<p align="center">
+Take care of your plants, give them love. And if you like the app ❤️ by starring the repository!<br>
+Also, ⭐️ and fork this repository if you want to give it a new feature !!
+</p>
